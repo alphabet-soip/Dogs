@@ -1,2 +1,2 @@
-# Dogs
-## blasd
+# Dogs Activity
+## Enrico Louis Taal
